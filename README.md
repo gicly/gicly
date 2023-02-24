@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 👋嗨<br></br>
-👀我对书法和摄影感兴趣
-🌱我目前正在学习SpringCloud，SpringBoot
-📫如何联系我 1044186568@qq.com
+👀我对书法和摄影感兴趣<br></br>
+🌱我目前正在学习SpringCloud，SpringBoot<br></br>
+📫如何联系我 1044186568@qq.com<br></br>
 🖥我的博客 https://www.cnblogs.com/gicxl/
