@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **gicly/gicly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👋嗨
+👀我对书法和摄影感兴趣
+🌱我目前正在学习SpringCloud，SpringBoot
+📫如何联系我 1044186568@qq.com
+🖥我的博客 https://www.cnblogs.com/gicxl/
